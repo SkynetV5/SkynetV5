@@ -13,6 +13,9 @@ I'm currently studing computer science engineer degree at Nicolaus Copernicus Un
 Interests
 <ul>
   <li>
+    💻 Programming
+  </li>
+  <li>
     🎖 Military Technology and Weapons
   </li>
   <li>
