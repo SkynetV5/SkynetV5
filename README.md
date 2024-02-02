@@ -7,23 +7,26 @@ I'm currently studing computer science engineer degree at Nicolaus Copernicus Un
     💻 Windows User
   </li>
   <li>
-    🎮 FPS gamer
+    🎮 FPS Gamer
   </li>
   <li>
     
   </li>
 </ul>
+Interests
 <ul>
-  Interests
   <li>
     🎖 Military Technology and Weapons
   </li>
   <li>
-    
+    📖 History
+  </li>
+  <li>
+    📷 Photography
   </li>
 </ul>
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SkynetV5)]
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SkynetV5)
 <!--
 **SkynetV5/SkynetV5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
