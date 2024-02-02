@@ -2,7 +2,7 @@
 I'm currently studing computer science engineer degree at Nicolaus Copernicus University in Torun. 
 
 ### Some Info About me
-<ol>
+<ul>
   <li>
     💻 Windows User
   </li>
@@ -12,8 +12,18 @@ I'm currently studing computer science engineer degree at Nicolaus Copernicus Un
   <li>
     
   </li>
-</ol>
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+</ul>
+<ul>
+  Interests
+  <li>
+    🎖 Military Technology and Weapons
+  </li>
+  <li>
+    
+  </li>
+</ul>
+
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SkynetV5)]
 <!--
 **SkynetV5/SkynetV5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
