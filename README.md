@@ -9,6 +9,9 @@ I'm currently studing computer science engineer degree at Nicolaus Copernicus Un
   <li>
     🎮 FPS Gamer
   </li>
+  <li>
+    💂 ASG Player
+  </li>
 </ul>
 Interests
 <ul>
