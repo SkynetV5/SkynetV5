@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm currently studing computer science engineer degree at Nicolaus Copernicus University in Torun. 
+I'm currently studing computer science Master's degree at Nicolaus Copernicus University in Torun. 
 
 ### Some Info About me
 <ul>
